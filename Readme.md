@@ -22,7 +22,7 @@
 └─$ cat about_me.txt
 
   Name       : Ankit Kumar Singh
-  Role       : Cybersecurity Student & Security Researcher
+  Role       : Cybersecurity Enthusiast & Security Researcher
   University : Parul University
   Degree     : B.Tech Computer Science (Cybersecurity)
   Location   : Vadodara, Gujarat, India
@@ -44,15 +44,13 @@ why they break, and how to build them more securely.
 
 My practical interests include:
 
-* 🔎 Web Application Security
 * 🛡️ Vulnerability Assessment & Penetration Testing
+* 🔎 Web Application Security
 * 🐛 Bug Bounty Hunting
-* 📱 Mobile Application Security
-* ☁️ Cloud Security
 * 🔬 Vulnerability Research
 * 🧩 Reverse Engineering
+* ☁️ Cloud Security
 * 🏴 CTF Competitions
-* ⚙️ Security Automation
 
 I prefer **hands-on security research over simply reading about vulnerabilities.**
 
@@ -70,8 +68,8 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 ● Python
 ● Bash
 ● SQL
-● C / C++
-● JavaScript
+● C 
+● Java
 ```
 
 </td>
@@ -88,7 +86,7 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 ⚡ OWASP ZAP
 ⚡ SQLMap
 ⚡ Hashcat
-⚡ Nessus / OpenVAS
+⚡ Nessus 
 ```
 
 </td>
@@ -101,8 +99,6 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 🎯 Web Security
 🎯 VAPT
 🎯 Bug Bounty
-🎯 Mobile Security
-🎯 Cloud Security
 🎯 OWASP Top 10
 🎯 Threat Analysis
 🎯 Security Automation
@@ -121,25 +117,18 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 <br/>
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E5E9A?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
 
@@ -155,7 +144,6 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
   [+] Vulnerability Research
   [+] IDOR Vulnerability Discovery
   [+] Responsible Disclosure
-  [+] 10+ CTF Competitions
   [+] Security Automation & Scripting
   [+] Web Application Security Testing
 ```
@@ -173,7 +161,7 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 
 | Certification / Training            |      Platform      |    Status   |
 | :---------------------------------- | :----------------: | :---------: |
-| **Cryptography & Network Security** |        NPTEL       | ✅ Completed |
+| **CEHv13AI**                        |     EC-Council     | ✅ Completed |
 | **Cybersecurity Foundation**        | Palo Alto Networks | ✅ Completed |
 | **Android Bug Hunting**             |     EC-Council     | ✅ Completed |
 | **Cyber Defence Strategies**        |     IT Masters     | ✅ Completed |
@@ -181,69 +169,7 @@ I prefer **hands-on security research over simply reading about vulnerabilities.
 
 ---
 
-## `0x06` · Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 LeakForge
-
-Security-focused **leak intelligence and automation framework** designed to collect, process and organize security-relevant intelligence.
-
-```text
-Python · CLI · Automation · OSINT
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ AI Web Pentesting Platform
-
-An ongoing project focused on combining automation and AI-assisted analysis for web application security testing.
-
-```text
-AI · Web Security · Pentesting · Automation
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 The Setu
-
-AI-powered learning and career platform designed to help students understand skill gaps and improve their technical progression.
-
-```text
-Web · AI · Career Development
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔎 Log Integrity Tool
-
-A security utility for verifying the integrity of log files using cryptographic hashing and detecting unauthorized modifications.
-
-```text
-Python · SHA-256 · File Integrity
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `0x07` · Current Operations
+## `0x06` · Current Operations
 
 ```bash
 ┌──(ankit㉿kali)-[~/current_ops]
@@ -261,7 +187,7 @@ Python · SHA-256 · File Integrity
 
 ---
 
-## `0x08` · Learning Path
+## `0x07` · Learning Path
 
 ```text
 [✓] Networking Fundamentals
@@ -281,7 +207,7 @@ Python · SHA-256 · File Integrity
 
 ---
 
-## `0x09` · GitHub Stats
+## `0x08` · GitHub Stats
 
 <div align="center">
 
@@ -322,7 +248,5 @@ Python · SHA-256 · File Integrity
 ### `>> It's about understanding why they exist.`
 
 <br/>
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>

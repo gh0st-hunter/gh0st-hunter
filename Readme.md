@@ -8,9 +8,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gh0st-hunter\&label=RECON+COUNT\&color=00FF41\&style=flat-square\&labelColor=0d1117)](https://github.com/gh0st-hunter)
-[![Open To Collaboration](https://img.shields.io/badge/Status-Open_To_Collaborate-00FF41?style=flat-square\&labelColor=0d1117)](https://github.com/gh0st-hunter)
-
 </div>
 
 ---
